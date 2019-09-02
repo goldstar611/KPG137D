@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\KENWOOD\KPG137D]
+
+[HKEY_CURRENT_USER\Software\KENWOOD\KPG137D\Backup]
+"LastModel"="50:54:4B:2D:32:30:30:30:FF:FF:01:01:FF:FF:FF:FF"
+"ComPort"=dword:00000001
+"LanguageName"="kpg137d_en.lng"
+"DataFile"=dword:00000000
+"Protect"="05:48:77:65:7E:66:02"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\KENWOOD Corporation\KPG-137D]
+"LID"="137E45000000AUWM"
+"Version"="V0101B01"
+"Protect"="03:48:70:0F:7F:66:07"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\KENWOOD Corporation\KPG-137D\1.01B01]
